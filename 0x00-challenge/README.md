@@ -1,1 +1,1 @@
-This task is based on fixing fizzbuzz code.
+This task is based on fixing bugs in codes.
